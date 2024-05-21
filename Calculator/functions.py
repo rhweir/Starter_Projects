@@ -11,9 +11,3 @@ class Calculator:
 
     def divide(self, x, y):
         return x / y
-
-
-calculator = Calculator()
-
-result = calculator.add(8, 9)
-print(result)
